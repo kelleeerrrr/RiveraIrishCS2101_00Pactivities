@@ -1,3 +1,4 @@
+package Artists;
 public class Singer extends Artist {
     private String genre;
 
